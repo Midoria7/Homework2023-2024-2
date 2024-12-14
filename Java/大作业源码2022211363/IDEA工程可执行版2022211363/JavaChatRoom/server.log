@@ -1,0 +1,19 @@
+[INFO] 2024-07-02 13:57:30 ServerController : Server started on port 12345 
+[INFO] 2024-07-02 13:58:12 ServerController : Shutting down server... 
+[INFO] 2024-07-02 13:58:12 ServerController : All connections closed. 
+[INFO] 2024-07-02 13:58:12 ServerController : Server socket closed, shutting down. 
+[INFO] 2024-07-02 13:59:13 ServerController : Server started on port 12345 
+[INFO] 2024-07-02 13:59:15 ServerController : New client connected: 127.0.0.1 
+[INFO] 2024-07-02 13:59:15 ClientHandler : User user1 logged in, IP: /127.0.0.1 
+[INFO] 2024-07-02 13:59:32 ServerController : New client connected: 127.0.0.1 
+[INFO] 2024-07-02 13:59:32 ClientHandler : User user2 logged in, IP: /127.0.0.1 
+[INFO] 2024-07-02 13:59:42 ServerController : New client connected: 127.0.0.1 
+[INFO] 2024-07-02 13:59:42 ClientHandler : User user3 logged in, IP: /127.0.0.1 
+[INFO] 2024-07-02 14:04:03 ClientHandler : User user3 logged out, IP: /127.0.0.1 
+[INFO] 2024-07-02 14:10:35 ServerController : New client connected: 127.0.0.1 
+[INFO] 2024-07-02 14:12:41 ServerController : New client connected: 127.0.0.1 
+[INFO] 2024-07-02 14:13:45 ServerController : New client connected: 127.0.0.1 
+[WARNING] 2024-07-02 14:13:45 ClientHandler : An invalid login attempt was made. IP: /127.0.0.1 
+[INFO] 2024-07-02 14:14:05 ServerController : New client connected: 127.0.0.1 
+[INFO] 2024-07-02 14:14:05 ClientHandler : User user3 logged in, IP: /127.0.0.1 
+[INFO] 2024-07-02 14:32:21 ClientHandler : User user3 logged out, IP: /127.0.0.1 
